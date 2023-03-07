@@ -1,0 +1,8 @@
+D:\Visual Project\homework7\homework7\bin\Debug\homework7.exe.config
+D:\Visual Project\homework7\homework7\bin\Debug\homework7.exe
+D:\Visual Project\homework7\homework7\bin\Debug\homework7.pdb
+D:\Visual Project\homework7\homework7\obj\Debug\homework7.csproj.AssemblyReference.cache
+D:\Visual Project\homework7\homework7\obj\Debug\homework7.csproj.SuggestedBindingRedirects.cache
+D:\Visual Project\homework7\homework7\obj\Debug\homework7.csproj.CoreCompileInputs.cache
+D:\Visual Project\homework7\homework7\obj\Debug\homework7.exe
+D:\Visual Project\homework7\homework7\obj\Debug\homework7.pdb

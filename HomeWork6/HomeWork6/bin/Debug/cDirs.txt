@@ -1,0 +1,17 @@
+c:\$Recycle.Bin
+c:\$WinREAgent
+c:\AMD
+c:\Config.Msi
+c:\Documents and Settings
+c:\Logs
+c:\OneDriveTemp
+c:\PerfLogs
+c:\Program Files
+c:\Program Files (x86)
+c:\ProgramData
+c:\Recovery
+c:\System Volume Information
+c:\temp
+c:\Users
+c:\Windows
+c:\XboxGames

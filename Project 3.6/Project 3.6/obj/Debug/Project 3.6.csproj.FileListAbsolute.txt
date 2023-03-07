@@ -1,0 +1,8 @@
+D:\Visual Project\Project 3.6\Project 3.6\bin\Debug\Project 3.6.exe.config
+D:\Visual Project\Project 3.6\Project 3.6\bin\Debug\Project 3.6.exe
+D:\Visual Project\Project 3.6\Project 3.6\bin\Debug\Project 3.6.pdb
+D:\Visual Project\Project 3.6\Project 3.6\obj\Debug\Project 3.6.csproj.AssemblyReference.cache
+D:\Visual Project\Project 3.6\Project 3.6\obj\Debug\Project 3.6.csproj.SuggestedBindingRedirects.cache
+D:\Visual Project\Project 3.6\Project 3.6\obj\Debug\Project 3.6.csproj.CoreCompileInputs.cache
+D:\Visual Project\Project 3.6\Project 3.6\obj\Debug\Project 3.6.exe
+D:\Visual Project\Project 3.6\Project 3.6\obj\Debug\Project 3.6.pdb

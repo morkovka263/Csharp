@@ -1,0 +1,8 @@
+D:\Visual Project\4.1\4.1\bin\Debug\4.1.exe.config
+D:\Visual Project\4.1\4.1\bin\Debug\4.1.exe
+D:\Visual Project\4.1\4.1\bin\Debug\4.1.pdb
+D:\Visual Project\4.1\4.1\obj\Debug\4.1.csproj.AssemblyReference.cache
+D:\Visual Project\4.1\4.1\obj\Debug\4.1.csproj.SuggestedBindingRedirects.cache
+D:\Visual Project\4.1\4.1\obj\Debug\4.1.csproj.CoreCompileInputs.cache
+D:\Visual Project\4.1\4.1\obj\Debug\4.1.exe
+D:\Visual Project\4.1\4.1\obj\Debug\4.1.pdb

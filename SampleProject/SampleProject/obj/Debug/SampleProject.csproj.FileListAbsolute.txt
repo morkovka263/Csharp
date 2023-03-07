@@ -1,0 +1,8 @@
+D:\Visual Project\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+D:\Visual Project\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+D:\Visual Project\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+D:\Visual Project\SampleProject\SampleProject\obj\Debug\SampleProject.csproj.AssemblyReference.cache
+D:\Visual Project\SampleProject\SampleProject\obj\Debug\SampleProject.csproj.SuggestedBindingRedirects.cache
+D:\Visual Project\SampleProject\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+D:\Visual Project\SampleProject\SampleProject\obj\Debug\SampleProject.exe
+D:\Visual Project\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
